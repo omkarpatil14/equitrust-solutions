@@ -2,7 +2,6 @@ import Reveal from "@/components/Reveal";
 
 const stats = [
   { value: "2021", label: "Year of incorporation" },
-  { value: "02", label: "Directors at the helm" },
   { value: "Kotak", label: "Securities sub-broker" },
 ];
 

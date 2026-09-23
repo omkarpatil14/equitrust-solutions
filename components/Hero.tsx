@@ -41,10 +41,6 @@ export default function Hero() {
               <span>CIN</span>
               U67100HR2021PTC097213
             </li>
-            <li>
-              <span>Seat</span>
-              Sirsa, Haryana
-            </li>
           </ul>
         </aside>
       </div>
